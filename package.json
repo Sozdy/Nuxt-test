@@ -1,0 +1,23 @@
+{
+  "name": "Nuxt",
+  "version": "1.0.0",
+  "description": "My first-class Nuxt.js project",
+  "author": "Sozdy",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.7",
+    "bootstrap": "^4.4.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "pug": "^2.0.4",
+    "pug-loader": "^2.4.0",
+    "pug-plain-loader": "^1.0.0"
+  }
+}
